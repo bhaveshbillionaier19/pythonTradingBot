@@ -1,0 +1,13 @@
+# Core Dependencies
+
+python-binance==1.0.19
+python-dotenv==1.0.0
+
+# Python-binance dependencies (explicitly listed for clarity)
+requests>=2.25.0
+six>=1.10
+dateparser>=0.7.6
+aiohttp>=3.8.0
+ujson>=4.0.0
+websockets>=10.0
+cryptography>=3.4.0
