@@ -3,7 +3,7 @@
 ### 🚀 Overview
 The **Binance Futures Order Bot** is a **CLI-based trading bot** built in **Python** that interacts with the **Binance USDT-M Futures Testnet**. It supports both **core trading orders** and **advanced automated strategies**, such as **TWAP** and **Grid Trading**, while maintaining strong **input validation**, **structured logging**, and **modular architecture**.
 
-⚠️ **Important**: This project is designed for **educational and demonstration purposes** on the Binance **Testnet** only.
+
 
 ---
 
@@ -338,31 +338,11 @@ Monitoring fills every 60 seconds...
 
 ---
 
-## ⚠️ Safety Notes
 
-- **Never use real API keys for testing**
-- **Always use the Binance Futures Testnet**
-- Quantities and prices should be realistic to avoid rejection
-- This bot does not handle live trading risk management or position tracking beyond the defined orders
 
----
 
-## 🧾 License
 
-MIT License © 2025  
-Developed for educational purposes and evaluation.
 
----
-
-## 📚 References
-
-- [Binance Futures Testnet](https://testnet.binancefuture.com)
-- [Binance Futures API Documentation](https://binance-docs.github.io/apidocs/futures/en/)
-- [python-binance Library](https://python-binance.readthedocs.io/)
-
----
-
-## 🤝 Contributing
 
 This is an educational project. Contributions, issues, and feature requests are welcome!
 
